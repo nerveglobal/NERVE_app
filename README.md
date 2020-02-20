@@ -10,9 +10,8 @@ Get the latest app version from https://github.com/NERVEGLOBAL/NERVE_app/release
 After launching the application for the first time, you will be required to choose a 8 digit PIN and generate a new Ethereum wallet or import an existing one per Mnemonic words. The wallet generation process will give you 12 Mnemonic words that are needed to access your Ethereum wallet and should be written down. If the wallet file is deleted and the words are lost, the funds on the wallet can not be restored! On each login after creating or importing a wallet, you are only required to type in your chosen PIN to login.
 
 # How to get Ethereum
-After logging into your wallet, navigate to the wallet history display by clicking on the two arrows in the Navigation Bar at the bottom. 
-< -- Link to Screenshot -->
-Click on the "Receive" button to get your Ethereum wallet address.
+After logging into your wallet, navigate to the wallet history display by clicking on the two arrows in the Navigation Bar at the bottom. Click on the "Receive" button to get your Ethereum wallet address.
+![Image description](https://github.com/NERVEGLOBAL/NERVE_app/blob/master/NerveScreens/walletAddress.jpg)
 
 To get Ropsten Testnet Ethereum:
 Go to https://faucet.ropsten.be/ or to a Ropsten faucet of your choice and copy your wallet address into the textfield. Click the button to get Ropsten Eth until the message appears that you were successful.
