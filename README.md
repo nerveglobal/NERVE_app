@@ -6,6 +6,9 @@ Nerve offers a Blockchain solution that connects content creators with their vie
 # How to install
 Get the latest app version from https://github.com/NERVEGLOBAL/NERVE_app/releases and unpack the .zip or execute the setup to save the NERVE desktop application on your PC. 
 
+# How to update
+Currently there is no in app update available. If you want to update your NERVE application to the newest version, download the zip or setup and proceed to install it into the old NERVE folder to overwrite the files. Created wallets will not be deleted by this process and can be logged into with the chosen PIN.
+
 # Getting started
 After launching the application for the first time, you will be required to choose a 8 digit PIN and generate a new Ethereum wallet or import an existing one per Mnemonic words. The wallet generation process will give you 12 Mnemonic words that are needed to access your Ethereum wallet and should be written down. If the wallet file is deleted and the words are lost, the funds on the wallet can not be restored! On each login after creating or importing a wallet, you are only required to type in your chosen PIN to login.
 
