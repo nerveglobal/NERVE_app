@@ -11,6 +11,7 @@ After launching the application for the first time, you will be required to choo
 
 # How to get Ethereum
 After logging into your wallet, navigate to the wallet history display by clicking on the two arrows in the Navigation Bar at the bottom. Click on the "Receive" button to get your Ethereum wallet address.
+
 ![](https://github.com/NERVEGLOBAL/NERVE_app/blob/master/NerveScreens/walletAddress.jpg)
 
 To get Ropsten Testnet Ethereum:
