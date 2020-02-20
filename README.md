@@ -15,7 +15,7 @@ After logging into your wallet, navigate to the wallet history display by clicki
 ![](https://github.com/NERVEGLOBAL/NERVE_app/blob/master/NerveScreens/walletAddress.jpg)
 
 To get Ropsten Testnet Ethereum:
-Go to https://faucet.ropsten.be/ or to a Ropsten faucet of your choice and copy your wallet address into the textfield. Click the button to get Ropsten Eth until the message appears that you were successful.
+Go to https://faucet.ropsten.be/ or to a Ropsten faucet of your choice and copy your wallet address into the textfield. Click the button to get Ropsten Eth until the succeeded message appears.
 
 # Note: Every action in the NERVE app requires Ethereum to succeed.
 
