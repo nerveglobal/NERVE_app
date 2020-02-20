@@ -17,10 +17,10 @@ After logging into your wallet, navigate to the wallet history display by clicki
 
 ![](https://github.com/NERVEGLOBAL/NERVE_app/blob/master/NerveScreens/walletAddress.jpg)
 
-To get Ropsten Testnet Ethereum:
-Go to https://faucet.ropsten.be/ or to a Ropsten faucet of your choice and copy your wallet address into the textfield. Click the button to get Ropsten Eth until the succeeded message appears.
+To get Ropsten testnet ehereum:
+Go to https://faucet.ropsten.be/ or to a Ropsten faucet of your choice and copy your wallet address into the textfield. Click the button to get Ropsten eth until the succeeded message appears.
 
-# Note: Every action in the NERVE app requires Ethereum to succeed.
+# Note: Every action in the NERVE app requires ethereum to succeed.
 
 # Change your Username
 To change your username navigate to your Dashboard and click the “Edit Profile”-Button. The stream-link box is Optional.
